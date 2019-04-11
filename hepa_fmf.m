@@ -5,7 +5,7 @@ clear;
 % Define bulk filter properties
 mu = 1E-5; % dynamic viscosity (Pa s)
 U_f = 5; % filtration velocity (cm/s)
-Z = 0.4; % thickness of filter (mm)
+Z = 0.400; % thickness of filter (mm)
 A = 0.23*0.08; % area of filter (m^2)
 
 % Define filter properties
